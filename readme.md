@@ -1,5 +1,8 @@
 # The document of code for AADN
 
+The code is for the paper, ''Adversarial Attack and Defense for Dehazing Networks''. 
+The arxiv link is, ''https://arxiv.org/pdf/2303.17255.pdf''.
+
 ## 1. The structure of this code 
 attack_utils： codes for attack
 
