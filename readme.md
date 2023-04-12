@@ -3,6 +3,8 @@
 The code is for the paper, ''Adversarial Attack and Defense for Dehazing Networks''. 
 The arxiv link is, ''https://arxiv.org/pdf/2303.17255.pdf''.
 
+ If you have any suggestions, feel free to contact me (Email: cxf_svip@163.com). Thanks.
+
 ## 1. The structure of this code 
 attack_utils： codes for attack
 
